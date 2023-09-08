@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_profile">
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="hu.bme.aut.android.befitt.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/navigation_track_run"
+        android:name="hu.bme.aut.android.befitt.ui.tracking.TrackRunFragment"
+        android:label="@string/title_track_run"
+        tools:layout="@layout/fragment_track_run" />
+    <fragment
+        android:id="@+id/navigation_stat_list"
+        android:name="hu.bme.aut.android.befitt.ui.statistics.StatListFragment"
+        android:label="@string/title_statistics"
+        tools:layout="@layout/fragment_stat_list" />
+
+</navigation>

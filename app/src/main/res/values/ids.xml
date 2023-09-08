@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_start_label" type="id" />
+    <item name="fab_pause_label" type="id" />
+    <item name="fab_stop_label" type="id" />
+    <item name="fab_music_label" type="id" />
+    <item name="fab_edit_label" type="id" />
+    <item name="fab_delete_label" type="id" />
+    <item name="fab_camera_label" type="id" />
+</resources>

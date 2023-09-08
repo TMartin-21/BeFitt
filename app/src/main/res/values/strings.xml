@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BeFitt</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_track_run">Track Run</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="name">Name</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="minDistance">Minimum Distance:</string>
+    <string name="age">Age</string>
+    <string name="speed">Speed:</string>
+    <string name="time">Time:</string>
+    <string name="position">Position:</string>
+    <string name="distance">Distance:</string>
+    <string name="deleteall">Delete All</string>
+    <string name="delete">DELETE</string>
+    <string name="back">BACK</string>
+    <string name="start">Start:</string>
+    <string name="end">End:</string>
+    <string name="avarage_speed">Avarage Speed:</string>
+    <string name="burned_calories">Burned Calories:</string>
+</resources>
